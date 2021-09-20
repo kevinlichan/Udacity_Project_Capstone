@@ -867,7 +867,7 @@ Generating proof and exporting:
 
 # Special Thanks
 
-**Udacity** - Thank you to the Udacity Team for a wonderful and challenging course on blockchain!!
+**Udacity** - Thank you to the wonderful team at Udacity for an engaging and challenging course on blockchain!!
 
 # Project Resources
 
