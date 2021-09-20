@@ -12,16 +12,16 @@ truffle v5.4.8
 
 ## Installing Packages
 
-'npm install'
+`npm install`
 
 ## Running truffle tests
 
 In the command prompt terminal run:
-'ganache-cli'
+`ganache-cli`
 
 In a separate command prompt terminal run:
-'cd eth-contracts'
-'truffle.cmd test'
+`cd eth-contracts`
+`truffle.cmd test`
 
 All 19 tests should pass:
 
@@ -30,13 +30,13 @@ INSERT IMAGES OF TESTS PASSING
 # Deployed ERC721 Contract on Rinkeby
 
 ## Verifier Contract:
-transaction hash: '0xa165b02a0d804342c265b5a9acf686b30b13053fdd68ff69bbddfd54601fbaee'
+transaction hash: `0xa165b02a0d804342c265b5a9acf686b30b13053fdd68ff69bbddfd54601fbaee`
 
-contract address: '0xDe3946a6db6F6aa77BFF34baCa18618724215961'
+contract address: `0xDe3946a6db6F6aa77BFF34baCa18618724215961`
 
-account: '0x6C9D9620f3723E814B96f91d1A16B5348a103F75'
+account: `0x6C9D9620f3723E814B96f91d1A16B5348a103F75`
 
-contract abi: '[
+contract abi: `[
     {
       "inputs": [
         {
@@ -755,7 +755,7 @@ contract abi: '[
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]'
+  ]`
 
 ## SolnSquareVerifier Contract:
 transaction hash: '0xb1b5da406805d48051a3f36a478f4f8e2c3b4c9301c04e604e7dd032b413ea98'
