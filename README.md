@@ -31,8 +31,11 @@ INSERT IMAGES OF TESTS PASSING
 
 ## Verifier Contract:
 transaction hash: '0xa165b02a0d804342c265b5a9acf686b30b13053fdd68ff69bbddfd54601fbaee'
+
 contract address: '0xDe3946a6db6F6aa77BFF34baCa18618724215961'
+
 account: '0x6C9D9620f3723E814B96f91d1A16B5348a103F75'
+
 contract abi: '[
     {
       "inputs": [
