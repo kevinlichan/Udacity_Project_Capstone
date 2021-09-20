@@ -845,6 +845,16 @@ contract abi: `[
 
 OpenSea Storefront URL: `https://testnets.opensea.io/collection/unidentified-contract-ub1keslvzr`
 
+# Zokrates Deployment
+
+ZoKrates was used to generate proofs for mining Real Estate Tokens, as depicted in the following screenshots:
+
+Running Docker and setting up Zokrates:
+IMAGE
+
+Generating proof and exporting:
+IMAGE
+
 
 # Project Resources
 
