@@ -24,7 +24,7 @@ In a separate command prompt terminal run:
 `truffle.cmd test`
 
 All 19 tests should pass:
-![truffle test](images/testpassing.PNG)
+![truffle test](images/testpassing.png)
 
 # Deployed ERC721 Contract on Rinkeby
 
@@ -849,10 +849,10 @@ OpenSea Storefront URL: `https://testnets.opensea.io/collection/unidentified-con
 ZoKrates was used to generate proofs for mining Real Estate Tokens, as depicted in the following screenshots:
 
 Running Docker and setting up Zokrates:
-![Zokrates](images/zokrates-setup.PNG)
+![Zokrates](images/zokrates-setup.png)
 
 Generating proof and exporting:
-![Zokrates](images/zokrates-proof-export.PNG)
+![Zokrates](images/zokrates-proof-export.png)
 
 
 # Project Resources
