@@ -841,6 +841,11 @@ contract abi: `[
     }
   ]`
 
+# OpenSea Listing
+
+OpenSea Storefront URL: `https://testnets.opensea.io/collection/unidentified-contract-ub1keslvzr`
+
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
