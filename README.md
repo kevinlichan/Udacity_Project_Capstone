@@ -38,6 +38,87 @@ account: `0x6C9D9620f3723E814B96f91d1A16B5348a103F75`
 
 contract abi: `[
     {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "string",
+          "name": "s",
+          "type": "string"
+        }
+      ],
+      "name": "Verified",
+      "type": "event"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "internalType": "uint256[2]",
+          "name": "a",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "a_p",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2][2]",
+          "name": "b",
+          "type": "uint256[2][2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "b_p",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "c",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "c_p",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "h",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "k",
+          "type": "uint256[2]"
+        },
+        {
+          "internalType": "uint256[2]",
+          "name": "input",
+          "type": "uint256[2]"
+        }
+      ],
+      "name": "verifyTx",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "r",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]`
+
+## SolnSquareVerifier Contract:
+transaction hash: `0xb1b5da406805d48051a3f36a478f4f8e2c3b4c9301c04e604e7dd032b413ea98`
+contract address: `0xA1d5cC54146F97Bf1817A958c2fA0eD49682B6EC`
+account: `0x6C9D9620f3723E814B96f91d1A16B5348a103F75`
+contract abi: `[
+    {
       "inputs": [
         {
           "internalType": "address",
@@ -756,11 +837,6 @@ contract abi: `[
       "type": "function"
     }
   ]`
-
-## SolnSquareVerifier Contract:
-transaction hash: '0xb1b5da406805d48051a3f36a478f4f8e2c3b4c9301c04e604e7dd032b413ea98'
-contract address: '0xA1d5cC54146F97Bf1817A958c2fA0eD49682B6EC'
-account: '0x6C9D9620f3723E814B96f91d1A16B5348a103F75'
 
 # Project Resources
 
