@@ -1,4 +1,4 @@
-# Udacity Blockchain Capstone
+# Zero-Knowledge Proof Real Estate Token POC
 
 The capstone will build upon the knowledge gained in the course in order to build a decentralized housing product.
 
