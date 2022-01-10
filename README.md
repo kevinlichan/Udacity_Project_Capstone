@@ -865,10 +865,6 @@ Generating proof and exporting:
 ![Zokrates](images/zokrates-proof-export.png)
 
 
-# Special Thanks
-
-**Udacity** - Thank you to the wonderful team at Udacity for an engaging and challenging course on blockchain!!
-
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
